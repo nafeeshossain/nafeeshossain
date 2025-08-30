@@ -1,7 +1,13 @@
-# Hey 👋, I'm Nafees Hossain
+<h1 align="center">Hey 👋, I'm Nafees Hossain</h1>
 
-🚀 Passionate **Coder | Tech Explorer | Innovator** <br>
-✌️ ***History can't be created in the comfort zone***
+<div align="center">
+  <table>
+    <tr>
+      <td>🚀 Passionate Coder | Tech Explorer | Innovator</td>
+      <td>✌️ History can't be created in the comfort zone</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
