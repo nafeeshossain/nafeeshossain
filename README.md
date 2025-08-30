@@ -14,16 +14,16 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafeeshossain/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/nafeeshossain)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/nafeeshossain/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nafeeshossain)
 
 ---
 
 ### ⚡ GitHub Stats
-![Nafees' GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafeeshossain&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafeeshossain&layout=compact&theme=radical" height="180em" />
+</div>
 
 ---
 
