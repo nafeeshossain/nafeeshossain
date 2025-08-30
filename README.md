@@ -1,7 +1,7 @@
 # Hey 👋, I'm Nafees Hossain
 
 🚀 Passionate **Coder | Tech Explorer | Innovator** <br>
-✌️ **History can't be created in the comfort zone**
+✌️ ***History can't be created in the comfort zone***
 
 ---
 
