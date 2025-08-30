@@ -1,34 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nafees Hossain</h1>
 
----
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>🚀 Passionate Coder</td>
-      <td>✌️ History can't be created in the comfort zone</td>
-    </tr>
-    <tr>
-      <td>💻 Tech Explorer</td>
-      <td>🌱 Lifelong Learner</td>
-    </tr>
-    <tr>
-      <td>⚡ Innovator</td>
-      <td>🎯 Focused on C++ & DSA</td>
-    </tr>
-  </table>
-
-</div>
-----
-
-
-
-
-
-
-<h1 align="center">Hey 👋, I'm Nafees Hossain</h1>
-
 <div align="center">
   <table>
     <tr>
