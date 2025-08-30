@@ -4,31 +4,24 @@
 ✌️ **History can't be created in the comfort zone**
 
 ---
-### 🛠️ Tech Stack
-<div align="center">
 
-<!-- Languages -->
+### 🛠️ Tech Stack
+- **Languages:** C, C++, Python, Java, Kotlin  
+- **CS Fundamentals:** Data Structures & Algorithms(DSA), OOP 
+- **Tools & Platforms:** Git, VS Code, Android Studio, Linux/Unix, Arduino
+
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-
-<!-- Tools & Platforms -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-
 </div>
-
----
-
-### 🛠️ Tech Stack
-- **Languages:** C, C++, Python, Java, Kotlin  
-- **CS Fundamentals:** Data Structures & Algorithms(DSA), OOP 
-- **Tools & Platforms:** Git, VS Code, Android Studio, Linux/Unix, Arduino  
 
 ---
 
@@ -41,9 +34,10 @@
 
 ### ⚡ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical" height="180em" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafeeshossain&layout=compact&theme=radical" height="180em" />
 </div>
+
 
 ---
 
