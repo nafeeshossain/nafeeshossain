@@ -5,7 +5,8 @@
 
 ---
 
-### 🛠️ Tech Stack <div>
+### 🛠️ Tech Stack
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -32,9 +33,11 @@
 
 ### ⚡ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical" height="180em" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical" height="180em" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafeeshossain&layout=compact&theme=radical" height="180em" />
 </div>
+
 
 
 ---
