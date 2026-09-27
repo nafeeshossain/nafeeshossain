@@ -55,6 +55,20 @@
 
 ---
 
+### 🚀 Featured Projects
+
+**🚌 [FindYourBus - Real-Time Transit Tracking Platform](https://findyourbus.vercel.app/)**
+* Engineered a user-facing MERN stack application that maps active transit vehicles across Kolkata, allowing commuters to view live bus coordinates and plan journeys efficiently.
+* Architected robust RESTful APIs using Node.js and Express.js to process continuous geolocation telemetry, utilizing MongoDB for route storage and React.js for a seamless, high-performance UI.
+* **Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST API
+
+**🛍️ [Commercial Product Catalog & Showcase Platform](https://www.mehebubmarbles.com/)**
+* Designed and engineered a full-stack commercial web application tailored for a local business to digitalize their service listings and inventory catalogs.
+* Managed the end-to-end production deployment pipeline, configuring custom domain routing and establishing highly available live hosting via Vercel.
+* **Tech Stack:** React.js, JavaScript, Vercel, DNS Configuration, HTML, CSS, Git
+
+---
+
 ### ⚡ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nafeeshossain&show_icons=true&theme=radical" height="180em" />
