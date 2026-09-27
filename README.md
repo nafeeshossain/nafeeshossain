@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </div>
 <br />
+
 - **Programming Languages:** C, C++, Python, Java
 - **Web Technologies:** HTML, CSS, JavaScript, React, Node.JS, Express.JS
 - **Databases:** SQL, MySQL, MongoDB, Supabase
