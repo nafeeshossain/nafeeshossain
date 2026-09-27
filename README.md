@@ -51,6 +51,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nafeeshossain)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/NafeesHossain_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hossainnafees587@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nafeeshossain)
 
 ---
 
