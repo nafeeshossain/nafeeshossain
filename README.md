@@ -88,6 +88,10 @@
 
 ---
 
+[![Favorite Track](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/b-t4Ar6V7ds)
+
+---
+
 ### 📌 Goals
 - Crack advanced **DSA & System Design**  
 - Build **industry-level projects** in **AI + App Dev**  
