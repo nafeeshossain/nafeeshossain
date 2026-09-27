@@ -42,7 +42,6 @@
 - **CS Fundamentals:** Data Structures & Algorithms (DSA), DBMS, OOP, OS, CN
 - **Soft Skills:** Strong Presentation and Communication Skills, Team Collaboration 
 
-
 ---
 
 ### 🌐 Connect with Me
@@ -58,14 +57,14 @@
 ### 🚀 Featured Projects
 
 **🚌 [FindYourBus - Real-Time Transit Tracking Platform](https://findyourbus.vercel.app/)**
-* Engineered a user-facing MERN stack application that maps active transit vehicles across Kolkata, allowing commuters to view live bus coordinates and plan journeys efficiently.
-* Architected robust RESTful APIs using Node.js and Express.js to process continuous geolocation telemetry, utilizing MongoDB for route storage and React.js for a seamless, high-performance UI.
-* **Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST API
+* 📍 **Live Transit Telemetry:** Built a high-impact MERN stack application delivering real-time bus coordinates across Kolkata, completely transforming how commuters plan their daily journeys.
+* ⚡ **Scalable Architecture:** Architected robust Node.js/Express REST APIs to process continuous geolocation data, paired with a blazing-fast React UI and MongoDB route storage.
+* 🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST API
 
 **🛍️ [Commercial Product Catalog & Showcase Platform](https://www.mehebubmarbles.com/)**
-* Designed and engineered a full-stack commercial web application tailored for a local business to digitalize their service listings and inventory catalogs.
-* Managed the end-to-end production deployment pipeline, configuring custom domain routing and establishing highly available live hosting via Vercel.
-* **Tech Stack:** React.js, JavaScript, Vercel, DNS Configuration, HTML, CSS, Git
+* 🏪 **Digital Transformation:** Designed and launched a full-stack commercial web presence for a local business, modernizing their inventory catalog and driving digital engagement.
+* 🌐 **End-to-End Deployment:** Single-handedly managed the production pipeline, including custom domain routing, DNS configuration, and seamless live hosting via Vercel.
+* 🛠️ **Tech Stack:** React.js, JavaScript, Vercel, HTML, CSS, Git
 
 ---
 
