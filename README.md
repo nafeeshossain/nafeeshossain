@@ -12,6 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack
+<br />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
@@ -31,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </div>
-
+<br />
 - **Programming Languages:** C, C++, Python, Java
 - **Web Technologies:** HTML, CSS, JavaScript, React, Node.JS, Express.JS
 - **Databases:** SQL, MySQL, MongoDB, Supabase
